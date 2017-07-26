@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/ubuntu/.cache/upstart/dbus.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/indicator-sound.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/window-stack-bridge.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/unity-settings-daemon.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/unity7.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/ssh-agent.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/gpg-agent.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/upstart-event-bridge.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/indicator-messages.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/unity-panel-service.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/gnome-keyring.log" 2017-7-26-6:0:0
+"/home/ubuntu/.cache/upstart/gnome-keyring-ssh.log" 2017-7-26-6:0:0
